@@ -1,2 +1,3 @@
-# demo-repo
-this is a readme file
+# dmo-repo
+Install Javascript before running
+  this is a readme file
